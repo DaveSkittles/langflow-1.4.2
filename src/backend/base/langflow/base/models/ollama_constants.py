@@ -38,6 +38,7 @@ OLLAMA_TOOL_MODELS_BASE = [
     "granite3-moe",
     "firefunction-v2",
     "cogito",
+    "qwen3",
 ]
 
 
